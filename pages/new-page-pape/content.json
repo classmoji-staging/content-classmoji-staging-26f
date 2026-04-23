@@ -1,0 +1,32 @@
+{
+  "blocks": [
+    {
+      "id": "83c0ccef-391a-4b5c-a83b-f12a9fe2827a",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [
+        {
+          "type": "text",
+          "text": "This seems to work fine!",
+          "styles": {}
+        }
+      ],
+      "children": []
+    },
+    {
+      "id": "41759819-0ddb-4f8d-95d0-caf43f139c65",
+      "type": "paragraph",
+      "props": {
+        "backgroundColor": "default",
+        "textColor": "default",
+        "textAlignment": "left"
+      },
+      "content": [],
+      "children": []
+    }
+  ]
+}
