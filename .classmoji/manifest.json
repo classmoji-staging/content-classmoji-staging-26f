@@ -1,0 +1,20 @@
+{
+  "modules": {
+    "pape-module": {
+      "pages": [],
+      "slides": [],
+      "assignments": {
+        "html": {
+          "pages": [],
+          "slides": []
+        }
+      }
+    }
+  },
+  "general": {
+    "pages": [
+      "new-page-pape"
+    ],
+    "slides": []
+  }
+}
